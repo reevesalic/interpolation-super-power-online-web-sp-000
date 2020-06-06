@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
 colors = ['red', 'orange', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(colors)
-  puts "Color #{colors[0], {colors[1]}. colors}"
+  puts "Color #{colors[0]}, {colors[1]}"
 end
